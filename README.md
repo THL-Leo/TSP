@@ -1,4 +1,4 @@
-Leo Tsunghan Lee © 2021
+> :warning: **This Project is a modified school project** and thus no students of CSE 13s should be looking at my source code.
 # Assignment 4 - The Perambulations of Denver Long
 
 This lab contains the program that can solve the Traveling Salesman Problem up to 26 vertices. 
